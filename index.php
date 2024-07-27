@@ -1,7 +1,7 @@
 <?php
 // Define the file paths
-$reportFile = 'incidents/reports.json';
-$arrestFile = 'incidents/arrests.json';
+$reportFile = 'reports.json';
+$arrestFile = 'arrests.json';
 
 // Function to fetch all reports
 function fetchReports() {
